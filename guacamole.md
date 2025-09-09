@@ -4,4 +4,4 @@
 * lime
 * salt
 ## Instructions
-* a bad change
+* peel the avocados
