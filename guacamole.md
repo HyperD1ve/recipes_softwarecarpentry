@@ -4,4 +4,4 @@
 * lime
 * salt
 ## Instructions
-* a bad change
+* put one avocado into the bowl
